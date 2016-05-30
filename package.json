@@ -1,0 +1,25 @@
+{
+  "name": "react-native-imagedownloader",
+  "version": "1.0.0",
+  "description": "React Native Component to Support Animation process view for networked images",
+  "main": "ImageDownLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TroyVGroup/react-native-ImageDownLoader.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-ios",
+    "image",
+    "downloader"
+  ],
+  "author": "VGroup Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TroyVGroup/react-native-ImageDownLoader/issues"
+  },
+  "homepage": "https://github.com/TroyVGroup/react-native-ImageDownLoader#readme"
+}

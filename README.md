@@ -51,7 +51,7 @@ React.createClass({
 });
 ```
 
-![]({{site.baseurl}}/http://i23.photobucket.com/albums/b381/tjanuranus/g6QOgaCjeOg1i_zpsly7vvk8j.gif)
+
 
 ## Authors
 

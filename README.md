@@ -36,14 +36,7 @@ thumbnail: {
     height: any
   }
   });
-
   
-React.createClass({
-  render: function () {
-    <RetinaImage src="./images/balloon.jpg" checkIfRetinaImgExists=false />
-  }
-});
-
 React.createClass({
   render: function () {
       <ImageDownLoader

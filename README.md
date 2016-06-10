@@ -56,3 +56,4 @@ React.createClass({
 ## Authors
 
   * VGroup Inc
+  * mobility.vgroupinc.com

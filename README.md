@@ -24,6 +24,7 @@ Available props:
 * `renderDefaultImage` — set Yes it you want to render the default image while image is downloading. `defaultImage` should be set if use this property. Default is No. 
 * `renderFailedImage` — set Yes it you want to render the default image when image downlaods failed . `defaultImage` should be set if use this property.Default is No. 
 
+![alt tag](http://i.giphy.com/g6QOgaCjeOg1i.gif)
 
 ```javascript
 var React = require('react-native');
@@ -55,5 +56,5 @@ React.createClass({
 
 ## Authors
 
-  * VGroup Inc
-  * mobility.vgroupinc.com
+  *  [VGroup Inc.](http://mobility.vgroupinc.com)
+  
